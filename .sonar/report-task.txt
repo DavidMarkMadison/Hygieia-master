@@ -1,0 +1,5 @@
+projectKey=David
+serverUrl=http://ec2-52-87-205-162.compute-1.amazonaws.com:9000
+dashboardUrl=http://ec2-52-87-205-162.compute-1.amazonaws.com:9000/dashboard/index/David
+ceTaskId=AVROJa6BMu7bzJ7dTztB
+ceTaskUrl=http://ec2-52-87-205-162.compute-1.amazonaws.com:9000/api/ce/task?id=AVROJa6BMu7bzJ7dTztB
